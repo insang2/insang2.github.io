@@ -2,10 +2,8 @@
 main:
   - title: "Oscar Lee IG"
     url: https://www.instagram.com/oscar_lee_photo/
- - title: "System"
+  - title: "System"
     url: /system/
-
-
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
